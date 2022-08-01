@@ -265,6 +265,8 @@ footer {
         padding: 0;
     }
 
+    
+
     #times > div {
         width: 100%;
         clear: both;
@@ -279,6 +281,9 @@ footer {
 
  /* For media screen size from 950px wide and down */
  @media screen and (max-width: 950px) {
+    
+    
+    
     #menu {
         clear: left;
         float: left;
@@ -291,11 +296,12 @@ footer {
         left: 0;
     }
 
-     #club-ethos { 
+    #club-ethos { 
         width: 90%;
         height: 1200px;
         margin: 0 auto;
     }
+    
 
     .left-about-heading, .right-about-heading {
         width: inherit;
@@ -314,8 +320,10 @@ footer {
     #photos {
         column-count: 3;
     }
+
+}
       
- }
+ 
 
  /* for small screen sizes 800px and dowm */  
  @media screen and (max-width: 800px) {
